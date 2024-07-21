@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+    text-decoration: solid;
+}
+div{
+    margin: 5px;
+    padding: 2vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: stretch;
+}
